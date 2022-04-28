@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Gastón</h1>
 <h3 align="center">Programador novato de Argentina</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 Actualmente aprendiendo **Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
